@@ -72,7 +72,7 @@ WantedBy=multi-user.target
 设置开机启动crocrelay  
 #systemctl enable crocrelay  
   
-启动crocrelay服务 
+启动crocrelay服务   
 #systemctl start crocrelay  
   
 检查服务状态  
